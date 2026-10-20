@@ -1,0 +1,59 @@
+{
+  "" : {
+    "diagnostics" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/DENFeedNetwork-primary.dia",
+    "emit-module-dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/DENFeedNetwork-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/DENFeedNetwork-primary-emit-module.dia",
+    "pch" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/DENFeedNetwork-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/DENFeedNetwork-primary.swiftdeps"
+  },
+  "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/Modules/DENFeedNetwork/Sources/DENFeedNetwork/Endpoint.swift" : {
+    "const-values" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/Endpoint.swiftconstvalues",
+    "dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/Endpoint.d",
+    "diagnostics" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/Endpoint.dia",
+    "index-unit-output-path" : "/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/Endpoint.o",
+    "llvm-bc" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/Endpoint.bc",
+    "object" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/Endpoint.o",
+    "swift-dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/Endpoint.swiftdeps",
+    "swiftmodule" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/Endpoint~partial.swiftmodule"
+  },
+  "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/Modules/DENFeedNetwork/Sources/DENFeedNetwork/NetworkConfigurable.swift" : {
+    "const-values" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/NetworkConfigurable.swiftconstvalues",
+    "dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/NetworkConfigurable.d",
+    "diagnostics" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/NetworkConfigurable.dia",
+    "index-unit-output-path" : "/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/NetworkConfigurable.o",
+    "llvm-bc" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/NetworkConfigurable.bc",
+    "object" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/NetworkConfigurable.o",
+    "swift-dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/NetworkConfigurable.swiftdeps",
+    "swiftmodule" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/NetworkConfigurable~partial.swiftmodule"
+  },
+  "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/Modules/DENFeedNetwork/Sources/DENFeedNetwork/NetworkError.swift" : {
+    "const-values" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/NetworkError.swiftconstvalues",
+    "dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/NetworkError.d",
+    "diagnostics" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/NetworkError.dia",
+    "index-unit-output-path" : "/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/NetworkError.o",
+    "llvm-bc" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/NetworkError.bc",
+    "object" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/NetworkError.o",
+    "swift-dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/NetworkError.swiftdeps",
+    "swiftmodule" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/NetworkError~partial.swiftmodule"
+  },
+  "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/Modules/DENFeedNetwork/Sources/DENFeedNetwork/NetworkLogger.swift" : {
+    "const-values" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/NetworkLogger.swiftconstvalues",
+    "dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/NetworkLogger.d",
+    "diagnostics" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/NetworkLogger.dia",
+    "index-unit-output-path" : "/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/NetworkLogger.o",
+    "llvm-bc" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/NetworkLogger.bc",
+    "object" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/NetworkLogger.o",
+    "swift-dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/NetworkLogger.swiftdeps",
+    "swiftmodule" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/NetworkLogger~partial.swiftmodule"
+  },
+  "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/Modules/DENFeedNetwork/Sources/DENFeedNetwork/NetworkService.swift" : {
+    "const-values" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/NetworkService.swiftconstvalues",
+    "dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/NetworkService.d",
+    "diagnostics" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/NetworkService.dia",
+    "index-unit-output-path" : "/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/NetworkService.o",
+    "llvm-bc" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/NetworkService.bc",
+    "object" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/NetworkService.o",
+    "swift-dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/NetworkService.swiftdeps",
+    "swiftmodule" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeedNetwork.build/Debug-iphonesimulator/DENFeedNetwork.build/Objects-normal/arm64/NetworkService~partial.swiftmodule"
+  }
+}

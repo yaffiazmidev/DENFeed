@@ -1,0 +1,159 @@
+{
+  "" : {
+    "diagnostics" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/DENFeed-primary.dia",
+    "emit-module-dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/DENFeed-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/DENFeed-primary-emit-module.dia",
+    "pch" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/DENFeed-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/DENFeed-primary.swiftdeps"
+  },
+  "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/DENFeed/App/Config/AppConfiguration.swift" : {
+    "const-values" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/AppConfiguration.swiftconstvalues",
+    "dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/AppConfiguration.d",
+    "diagnostics" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/AppConfiguration.dia",
+    "index-unit-output-path" : "/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/AppConfiguration.o",
+    "llvm-bc" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/AppConfiguration.bc",
+    "object" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/AppConfiguration.o",
+    "swift-dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/AppConfiguration.swiftdeps",
+    "swiftmodule" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/AppConfiguration~partial.swiftmodule"
+  },
+  "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/DENFeed/App/DENFeedApp.swift" : {
+    "const-values" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/DENFeedApp.swiftconstvalues",
+    "dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/DENFeedApp.d",
+    "diagnostics" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/DENFeedApp.dia",
+    "index-unit-output-path" : "/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/DENFeedApp.o",
+    "llvm-bc" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/DENFeedApp.bc",
+    "object" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/DENFeedApp.o",
+    "swift-dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/DENFeedApp.swiftdeps",
+    "swiftmodule" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/DENFeedApp~partial.swiftmodule"
+  },
+  "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/DENFeed/App/DI/DIContainer.swift" : {
+    "const-values" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/DIContainer.swiftconstvalues",
+    "dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/DIContainer.d",
+    "diagnostics" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/DIContainer.dia",
+    "index-unit-output-path" : "/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/DIContainer.o",
+    "llvm-bc" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/DIContainer.bc",
+    "object" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/DIContainer.o",
+    "swift-dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/DIContainer.swiftdeps",
+    "swiftmodule" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/DIContainer~partial.swiftmodule"
+  },
+  "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/DENFeed/Core/Navigation/AppDependencies.swift" : {
+    "const-values" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/AppDependencies.swiftconstvalues",
+    "dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/AppDependencies.d",
+    "diagnostics" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/AppDependencies.dia",
+    "index-unit-output-path" : "/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/AppDependencies.o",
+    "llvm-bc" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/AppDependencies.bc",
+    "object" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/AppDependencies.o",
+    "swift-dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/AppDependencies.swiftdeps",
+    "swiftmodule" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/AppDependencies~partial.swiftmodule"
+  },
+  "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/DENFeed/Core/Navigation/AppNavigationModifier.swift" : {
+    "const-values" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/AppNavigationModifier.swiftconstvalues",
+    "dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/AppNavigationModifier.d",
+    "diagnostics" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/AppNavigationModifier.dia",
+    "index-unit-output-path" : "/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/AppNavigationModifier.o",
+    "llvm-bc" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/AppNavigationModifier.bc",
+    "object" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/AppNavigationModifier.o",
+    "swift-dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/AppNavigationModifier.swiftdeps",
+    "swiftmodule" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/AppNavigationModifier~partial.swiftmodule"
+  },
+  "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/DENFeed/Core/Navigation/AppRoute.swift" : {
+    "const-values" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/AppRoute.swiftconstvalues",
+    "dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/AppRoute.d",
+    "diagnostics" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/AppRoute.dia",
+    "index-unit-output-path" : "/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/AppRoute.o",
+    "llvm-bc" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/AppRoute.bc",
+    "object" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/AppRoute.o",
+    "swift-dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/AppRoute.swiftdeps",
+    "swiftmodule" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/AppRoute~partial.swiftmodule"
+  },
+  "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/DENFeed/Features/Feed/Domain/API/FeedEndpoint.swift" : {
+    "const-values" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedEndpoint.swiftconstvalues",
+    "dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedEndpoint.d",
+    "diagnostics" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedEndpoint.dia",
+    "index-unit-output-path" : "/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedEndpoint.o",
+    "llvm-bc" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedEndpoint.bc",
+    "object" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedEndpoint.o",
+    "swift-dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedEndpoint.swiftdeps",
+    "swiftmodule" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedEndpoint~partial.swiftmodule"
+  },
+  "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/DENFeed/Features/Feed/Domain/Service/FeedService.swift" : {
+    "const-values" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedService.swiftconstvalues",
+    "dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedService.d",
+    "diagnostics" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedService.dia",
+    "index-unit-output-path" : "/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedService.o",
+    "llvm-bc" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedService.bc",
+    "object" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedService.o",
+    "swift-dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedService.swiftdeps",
+    "swiftmodule" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedService~partial.swiftmodule"
+  },
+  "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/DENFeed/Features/Feed/Model/FeedItemViewModel.swift" : {
+    "const-values" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedItemViewModel.swiftconstvalues",
+    "dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedItemViewModel.d",
+    "diagnostics" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedItemViewModel.dia",
+    "index-unit-output-path" : "/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedItemViewModel.o",
+    "llvm-bc" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedItemViewModel.bc",
+    "object" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedItemViewModel.o",
+    "swift-dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedItemViewModel.swiftdeps",
+    "swiftmodule" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedItemViewModel~partial.swiftmodule"
+  },
+  "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/DENFeed/Features/Feed/Model/Response/RemoteFeedItem.swift" : {
+    "const-values" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/RemoteFeedItem.swiftconstvalues",
+    "dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/RemoteFeedItem.d",
+    "diagnostics" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/RemoteFeedItem.dia",
+    "index-unit-output-path" : "/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/RemoteFeedItem.o",
+    "llvm-bc" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/RemoteFeedItem.bc",
+    "object" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/RemoteFeedItem.o",
+    "swift-dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/RemoteFeedItem.swiftdeps",
+    "swiftmodule" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/RemoteFeedItem~partial.swiftmodule"
+  },
+  "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/DENFeed/Features/Feed/Presentation/View/FeedRowView.swift" : {
+    "const-values" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedRowView.swiftconstvalues",
+    "dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedRowView.d",
+    "diagnostics" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedRowView.dia",
+    "index-unit-output-path" : "/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedRowView.o",
+    "llvm-bc" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedRowView.bc",
+    "object" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedRowView.o",
+    "swift-dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedRowView.swiftdeps",
+    "swiftmodule" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedRowView~partial.swiftmodule"
+  },
+  "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/DENFeed/Features/Feed/Presentation/View/FeedView.swift" : {
+    "const-values" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedView.swiftconstvalues",
+    "dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedView.d",
+    "diagnostics" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedView.dia",
+    "index-unit-output-path" : "/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedView.o",
+    "llvm-bc" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedView.bc",
+    "object" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedView.o",
+    "swift-dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedView.swiftdeps",
+    "swiftmodule" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedView~partial.swiftmodule"
+  },
+  "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/DENFeed/Features/Feed/Presentation/ViewModel/FeedViewModel.swift" : {
+    "const-values" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedViewModel.swiftconstvalues",
+    "dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedViewModel.d",
+    "diagnostics" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedViewModel.dia",
+    "index-unit-output-path" : "/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedViewModel.o",
+    "llvm-bc" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedViewModel.bc",
+    "object" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedViewModel.o",
+    "swift-dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedViewModel.swiftdeps",
+    "swiftmodule" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedViewModel~partial.swiftmodule"
+  },
+  "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/DENFeed/Features/FeedDetail/FeedDetailView.swift" : {
+    "const-values" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedDetailView.swiftconstvalues",
+    "dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedDetailView.d",
+    "diagnostics" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedDetailView.dia",
+    "index-unit-output-path" : "/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedDetailView.o",
+    "llvm-bc" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedDetailView.bc",
+    "object" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedDetailView.o",
+    "swift-dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedDetailView.swiftdeps",
+    "swiftmodule" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/FeedDetailView~partial.swiftmodule"
+  },
+  "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

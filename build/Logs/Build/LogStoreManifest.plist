@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>11</integer>
+	<key>logs</key>
+	<dict>
+		<key>50574518-48B4-4FA2-A5FA-5577DAF5C7B9</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>50574518-48B4-4FA2-A5FA-5577DAF5C7B9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DENFeed project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DENFeed</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project DENFeed with scheme DENFeed and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>812554643.96553695</real>
+			<key>timeStoppedRecording</key>
+			<real>812554663.16366196</real>
+			<key>title</key>
+			<string>Building project DENFeed with scheme DENFeed and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>50574518-48B4-4FA2-A5FA-5577DAF5C7B9</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

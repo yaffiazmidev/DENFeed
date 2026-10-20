@@ -1,0 +1,15 @@
+/Users/denazmi/Workspace/iOS/Interview\ Test/Bank\ DKI/DENFeed/DENFeed/App/Config/AppConfiguration.swift
+/Users/denazmi/Workspace/iOS/Interview\ Test/Bank\ DKI/DENFeed/DENFeed/App/DI/DIContainer.swift
+/Users/denazmi/Workspace/iOS/Interview\ Test/Bank\ DKI/DENFeed/DENFeed/App/DENFeedApp.swift
+/Users/denazmi/Workspace/iOS/Interview\ Test/Bank\ DKI/DENFeed/DENFeed/Core/Navigation/AppDependencies.swift
+/Users/denazmi/Workspace/iOS/Interview\ Test/Bank\ DKI/DENFeed/DENFeed/Core/Navigation/AppNavigationModifier.swift
+/Users/denazmi/Workspace/iOS/Interview\ Test/Bank\ DKI/DENFeed/DENFeed/Core/Navigation/AppRoute.swift
+/Users/denazmi/Workspace/iOS/Interview\ Test/Bank\ DKI/DENFeed/DENFeed/Features/Feed/Domain/API/FeedEndpoint.swift
+/Users/denazmi/Workspace/iOS/Interview\ Test/Bank\ DKI/DENFeed/DENFeed/Features/Feed/Domain/Service/FeedService.swift
+/Users/denazmi/Workspace/iOS/Interview\ Test/Bank\ DKI/DENFeed/DENFeed/Features/Feed/Model/Response/RemoteFeedItem.swift
+/Users/denazmi/Workspace/iOS/Interview\ Test/Bank\ DKI/DENFeed/DENFeed/Features/Feed/Model/FeedItemViewModel.swift
+/Users/denazmi/Workspace/iOS/Interview\ Test/Bank\ DKI/DENFeed/DENFeed/Features/Feed/Presentation/View/FeedRowView.swift
+/Users/denazmi/Workspace/iOS/Interview\ Test/Bank\ DKI/DENFeed/DENFeed/Features/Feed/Presentation/View/FeedView.swift
+/Users/denazmi/Workspace/iOS/Interview\ Test/Bank\ DKI/DENFeed/DENFeed/Features/Feed/Presentation/ViewModel/FeedViewModel.swift
+/Users/denazmi/Workspace/iOS/Interview\ Test/Bank\ DKI/DENFeed/DENFeed/Features/FeedDetail/FeedDetailView.swift
+/Users/denazmi/Workspace/iOS/Interview\ Test/Bank\ DKI/DENFeed/build/Build/Intermediates.noindex/DENFeed.build/Debug-iphonesimulator/DENFeed.build/DerivedSources/GeneratedAssetSymbols.swift

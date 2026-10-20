@@ -1,0 +1,23 @@
+appId: com.denazmi.DENFeed
+---
+- launchApp
+- assertVisible: "Feed"
+
+# Test 1: Buka Detail Item 1
+- tapOn: "sunt aut facere.*"
+- assertVisible: "quia et suscipit.*"
+
+# Kembali dengan gesture swipe right (iOS native)
+- swipe:
+    direction: RIGHT
+
+# Test 2: Buka Detail Item 2
+- tapOn: "qui est esse"
+- assertVisible: "est rerum tempore vitae.*"
+
+# Kembali lagi ke list feed
+- swipe:
+    direction: RIGHT
+
+# Pastikan kembali ke halaman utama
+- assertVisible: "Feed"

@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'DENFeed' in project 'DENFeed'
+➜ Explicit dependency on target 'DENFeedNetwork' in project 'DENFeedNetwork'
+Target 'DENFeedNetwork' in project 'DENFeedNetwork'
+➜ Explicit dependency on target 'DENFeedNetwork' in project 'DENFeedNetwork'
+Target 'DENFeedNetwork' in project 'DENFeedNetwork' (no dependencies)

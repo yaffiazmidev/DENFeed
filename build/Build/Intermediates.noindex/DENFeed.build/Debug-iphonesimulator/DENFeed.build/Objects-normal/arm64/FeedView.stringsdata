@@ -1,0 +1,40 @@
+{
+  "source": "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/DENFeed/Features/Feed/Presentation/View/FeedView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Feed",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "Load feeds...",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 46
+        }
+      },
+      {
+        "comment": "",
+        "key": "No posts yet",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "Try Again",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 72
+        }
+      }
+    ]
+  },
+  "version": 1
+}

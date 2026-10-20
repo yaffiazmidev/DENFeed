@@ -1,0 +1,27 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "denfeednetwork",
+          "kind" : "fileSystem",
+          "location" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/Modules/DENFeedNetwork",
+          "name" : "DENFeedNetwork"
+        },
+        "state" : {
+          "name" : "fileSystem",
+          "path" : "/Users/denazmi/Workspace/iOS/Interview Test/Bank DKI/DENFeed/Modules/DENFeedNetwork"
+        },
+        "subpath" : "denfeednetwork"
+      }
+    ],
+    "prebuilts" : [
+
+    ]
+  },
+  "version" : 7
+}
